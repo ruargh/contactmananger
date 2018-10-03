@@ -1,15 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-// import './contact.css';
 
 class Contact extends Component {
-  /* Putting propTypes declaration outside of class and defaultProps below */
-  static defaultProps = {
-    name: 'Private',
-    email: 'Private',
-    phone: 'Private'
-  };
-
   render() {
     const { name, email, phone } = this.props;
     return (

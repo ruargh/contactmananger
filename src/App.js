@@ -14,7 +14,6 @@ class App extends Component {
           email="karen@email.com"
           phone="333-333-3333"
         />
-        <Contact />
       </div>
     );
   }
