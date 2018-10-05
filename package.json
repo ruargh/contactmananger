@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruargh.github.io/contactmanager",
+  "homepage": "https://ruargh.github.io/contactmananger",
   "dependencies": {
     "ajv": "^6.5.4",
     "axios": "^0.18.0",
